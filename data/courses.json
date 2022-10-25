@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/2WpTcN7/780x440-habr.png",
+        "title": "Go: The Complete Developer's Guide (Golang)",
+        "title_desc": "Master the fundamentals and advanced features of the Go Programming Language (Golang)",
+        "isBestseller": true,
+        "rating": {
+            "stars": 5,
+            "reviews": 29492,
+            "students": 119919
+        },
+        "author": "Stephen Grider",
+        "lastUpdate": "4/2021",
+        "language": "English",
+        "requirements": ["JavaScript", "Python", "Ruby", "Java"],
+        "desc": "Go is an open source programming language created by Google.  As one of the fastest growing languages in terms of popularity, its a great time to pick up the basics of Go!",
+        "duration": "9 hours",
+        "contents": [
+            "Golang Basics",
+            "Data Organizing with Struct",
+            "Maps",
+            "Interfaces",
+            "Channels and Go Routines"
+        ],
+        "price": 84.99,
+        "learn": [
+            "Build massively concurrent programs with Go Routines and Channels",
+            "Learn the advanced features of Go",
+            "Understand the differences between commonly used data structures",
+            "Prove your knowledge with dozens of included quiz questions"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/KrqhqKC/9uy14.jpg",
+        "title": "Next.js & React - The Complete Guide (incl. Two Paths!)",
+        "title_desc": "Learn NextJS from the ground up and build production-ready, fullstack ReactJS apps with the NextJS framework!",
+        "isBestseller": true,
+        "rating": {
+            "stars": 5,
+            "reviews": 8285,
+            "students": 54192
+        },
+        "author": "Maximilian Schwarzmüller",
+        "lastUpdate": "4/2022",
+        "language": "English",
+        "requirements": ["ReactJS"],
+        "desc": "Join this bestselling NextJS course and learn how to build highly dynamic, super fast and SEO-ready React apps with React & NextJS! This course comes with two paths which you can take: The 'complet' path (full >20h course) and the 'summery' path (~3h summary module) - you can choose the path that best fits your time requirements!",
+        "duration": "25 hours",
+        "contents": [
+            "React Refresher",
+            "Pages and File-based Routing",
+            "Page Pre-rendering and Fetching",
+            "Adding Backend Code with API Routes",
+            "Working with APP wide State"
+        ],
+        "price": 119.99,
+        "learn": [
+            "Learn all key NextJS features like pre-rendering, SSR, data fetching, file-based routing and authentication",
+            "Learn how to build client-side and fullstack ReactJS apps with NextJS",
+            "Build real projects and apply what you learned with hands-on projects and examples"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/z74XDb0/d4c31a87d6d8e846c742f80c9f0c3abc9d728470.jpg",
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+        "title_desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+        "isBestseller": true,
+        "rating": {
+            "stars": 5,
+            "reviews": 146946,
+            "students": 648546
+        },
+        "author": "Dr. Angela Yu",
+        "lastUpdate": "12/2021",
+        "language": "English",
+        "requirements": [
+            "No Programming Knowledge",
+            "A Laptop or PC",
+            "No paid software"
+        ],
+        "desc": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy!  ",
+        "duration": "60 hours",
+        "contents": [
+            "Variables",
+            "Data Types",
+            "Logical Operators",
+            "Randomisation and List",
+            "Loops",
+            "Functions",
+            "OOP",
+            "API",
+            "Data Visualisation"
+        ],
+        "price": 69.99,
+        "learn": [
+            "You will master the Python programming language by building 100 unique projects over 100 days.",
+            "You will be able to program in Python professionally",
+            "Create a portfolio of 100 Python projects to apply for developer jobs",
+            "Be able to use Python for data science and machine learning"
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/sHyW3qp/best-node-js-course-training-tutorial-online-0rruzssm.jpg",
+        "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2022",
+        "title_desc": "Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)",
+        "isBestseller": true,
+        "rating": {
+            "stars": 5,
+            "reviews": 14283,
+            "students": 85963
+        },
+        "author": "Jonas Schmedtmann",
+        "lastUpdate": "6/2022",
+        "language": "English",
+        "requirements": [
+            "No Backend Knowledge",
+            "Basic understanding of JavaScript",
+            "A Laptop or PC"
+        ],
+        "desc": "This course is the perfect all-in-one package that will take you from a complete beginner to an advanced, highly-skilled Node.js developer.",
+        "duration": "42 hours",
+        "contents": [
+            "Node and NPM",
+            "Backend Web Development",
+            "MongoDB",
+            "Express",
+            "Git",
+            "Deployment"
+        ],
+        "price": 99.99,
+        "learn": [
+            "Master the entire modern back-end stack: Node, Express, MongoDB and Mongoose (MongoDB JS driver)",
+            "Build a fast, scalable, feature-rich RESTful API (includes filters, sorts, pagination, and much more)",
+            "CRUD operations with MongoDB and Mongoose",
+            "Build a complete, beautiful & real-world application from start to finish (API and server-side rendered website)"
+        ]
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/gV1wBHV/10b88c68-typescript-logo.png",
+        "title": "Understanding TypeScript - 2022 Edition",
+        "title_desc": "Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more!",
+        "isBestseller": true,
+        "rating": {
+            "stars": 5,
+            "reviews": 35492,
+            "students": 172945
+        },
+        "author": "Maximilian Schwarzmüller",
+        "lastUpdate": "11/2019",
+        "language": "English",
+        "requirements": [
+            "Basic understanding of JavaScript",
+            "ES6 Knowledge",
+            "A Laptop or PC"
+        ],
+        "desc": "Learn what TypeScript is, why it really is a powerful addition to JavaScript, what its features are and how to use it! Learn why TypeScript is amazing, how it improves your JavaScript code and how it helps you avoid nasty bugs and errors!",
+        "duration": "15 hours",
+        "contents": [
+            "Basic Types",
+            "TypeScript Compiler",
+            "Classes & Interfaces",
+            "Advanced Types",
+            "Enums",
+            "Decorators"
+        ],
+        "price": 159.99,
+        "learn": [
+            "Use TypeScript and its Features like Types, ES6 Support, Classes, Modules, Interfaces and much more in any of their Projects",
+            "Understand what TypeScript really is about and how it works"
+        ]
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/zhfvzBR/Rust-programming-language.jpg",
+        "title": "Ultimate Rust Crash Course",
+        "title_desc": "Rust Programming Fundamentals",
+        "isBestseller": true,
+        "rating": {
+            "stars": 4,
+            "reviews": 3705,
+            "students": 20825
+        },
+        "author": "Nathan Stocks",
+        "lastUpdate": "12/2021",
+        "language": "English",
+        "requirements": [
+            "A basic understanding of general programming language",
+            "Familiarity with C, Python will be helpfull"
+        ],
+        "desc": "This course will provide you with the fundamentals you need to boost you up Rust's steep learning curve.  This is a hands-on course with targeted exercises for each subject and projects for you to use your combined knowledge. ",
+        "duration": "3 hours",
+        "contents": [
+            "Fundamentals",
+            "Types and Control Flow",
+            "Heart of Rust",
+            "Enums",
+            "Structs",
+            "Closures",
+            "Threads"
+        ],
+        "price": 49.99,
+        "learn": [
+            "Rust language basics, tooling, and ecosystem",
+            "Fun tips & tricks for using Rust and systems programming in genera"
+        ]
+    }
+]
